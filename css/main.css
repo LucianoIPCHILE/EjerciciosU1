@@ -4,11 +4,11 @@
     justify-content: center;
     display: flex;
     height: 40px;
-    background: deepskyblue;
+    background: black;
 }
 
 .menu li{
-    background: deepskyblue;
+    background: black;
     display: block;
     float: left;
     padding: 0 10px;
@@ -16,5 +16,21 @@
 }
 
 .menu li:hover{
-    background: dodgerblue;
+    background: rgb(255, 242, 59);
+}
+
+.menu a{
+    color: white;
+}
+
+.menu li:hover a{
+    color: black;
+}
+
+.banner{
+    text-align: center;
+}
+
+.banner img{
+    width: 720px;
 }
