@@ -26,3 +26,7 @@ Página catalago:
 
 Menú con categorias.
 Al presionar en una opcion del submenú enviar a otra pagina donde se muestren al menos 3 productos.
+
+--------------------------
+
+Agregar 3 páginas, de registro, inicio de sedión y en caso de que se olvida la contraseña.
