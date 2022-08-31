@@ -37,9 +37,41 @@ body {
 
 .opcionCatalogo:focus {
   color: rgb(0,0,0);
+  background: #e3c00c;
 }
 
 .opcionCatalogo:hover {
   background: #aa8f00;
+}
+
+#divBanner {
+  text-align: center;
+  margin-top: 18px;
+}
+
+#banner {
+  width: 720px;
+  height: 170px;
+  margin: auto;
+  background: url("../../assets/img/banner.jpg") round;
+  background-size: contain, auto;
+  opacity: 0.70;
+}
+
+#headingBanner1 {
+  font-family: Almarai, sans-serif;
+  color: rgb(255,255,255);
+  text-align: left;
+  text-shadow: 4px 2px 4px rgb(0,0,0);
+  padding-left: 24px;
+}
+
+#headingBanner2 {
+  font-family: Almarai, sans-serif;
+  color: rgb(255,255,255);
+  text-align: right;
+  text-shadow: 4px 2px 4px rgb(0,0,0);
+  padding-right: 26px;
+  margin-top: 84px;
 }
 
