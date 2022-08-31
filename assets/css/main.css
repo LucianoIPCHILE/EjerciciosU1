@@ -1,0 +1,45 @@
+body {
+  background: rgb(48,48,48);
+}
+
+.navbar {
+  background: #232323;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+.opcionMenu {
+  padding-top: 13px;
+  padding-bottom: 13px;
+  color: #ffffff;
+  font-family: Almarai, sans-serif;
+}
+
+.opcionMenu:focus {
+  color: rgb(255,255,255);
+}
+
+.opcionMenu:hover {
+  background: #e3c00c;
+  color: rgb(0,0,0);
+}
+
+.dropdown-menu {
+  background: #e3c00c;
+  border-width: 2px;
+  border-color: #232323;
+}
+
+.opcionCatalogo {
+  color: rgb(0,0,0);
+  font-family: Almarai, sans-serif;
+}
+
+.opcionCatalogo:focus {
+  color: rgb(0,0,0);
+}
+
+.opcionCatalogo:hover {
+  background: #aa8f00;
+}
+
